@@ -1,0 +1,110 @@
+[
+  {
+    "model": "baz.target",
+    "pk": 1,
+    "fields": {
+      "full_name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "customer": 1
+    }
+  },
+  {
+    "model": "baz.target",
+    "pk": 2,
+    "fields": {
+      "full_name": "John Doe 2",
+      "email": "johndoe@gmail.com",
+      "customer": 1
+    }
+  },
+  {
+    "model": "baz.target",
+    "pk": 3,
+    "fields": {
+      "full_name": "John Doe 3",
+      "email": "johndoe@gmail.com",
+      "customer": 1
+    }
+  },
+  {
+    "model": "baz.target",
+    "pk": 4,
+    "fields": {
+      "full_name": "John Doe 4",
+      "email": "johndoe@gmail.com",
+      "customer": 2
+    }
+  },
+  {
+    "model": "baz.target",
+    "pk": 5,
+    "fields": {
+      "full_name": "John Doe 5",
+      "email": "johndoe@gmail.com",
+      "customer": 2
+    }
+  },
+  {
+    "model": "baz.target",
+    "pk": 6,
+    "fields": {
+      "full_name": "John Doe 6",
+      "email": "johndoe@gmail.com",
+      "customer": 2
+    }
+  },
+  {
+    "model": "baz.target",
+    "pk": 7,
+    "fields": {
+      "full_name": "John Doe 7",
+      "email": "johndoe@gmail.com",
+      "customer": 3
+    }
+  },
+  {
+    "model": "baz.target",
+    "pk": 8,
+    "fields": {
+      "full_name": "John Doe 8",
+      "email": "johndoe@gmail.com",
+      "customer": 3
+    }
+  },
+  {
+    "model": "baz.target",
+    "pk": 9,
+    "fields": {
+      "full_name": "John Doe 9",
+      "email": "johndoe@gmail.com",
+      "customer": 3
+    }
+  },
+  {
+    "model": "baz.target",
+    "pk": 10,
+    "fields": {
+      "full_name": "John Doe 10",
+      "email": "johndoe@gmail.com",
+      "customer": 4
+    }
+  },
+  {
+    "model": "baz.target",
+    "pk": 11,
+    "fields": {
+      "full_name": "John Doe 11",
+      "email": "johndoe@gmail.com",
+      "customer": 4
+    }
+  },
+  {
+    "model": "baz.target",
+    "pk": 12,
+    "fields": {
+      "full_name": "John Doe 12",
+      "email": "johndoe@gmail.com",
+      "customer": 4
+    }
+  }
+]

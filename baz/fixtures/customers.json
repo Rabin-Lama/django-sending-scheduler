@@ -1,0 +1,38 @@
+[
+  {
+    "model": "baz.customer",
+    "pk": 1,
+    "fields": {
+      "name": "Intel",
+      "interval": 1,
+      "timezone": "EST"
+    }
+  },
+  {
+    "model": "baz.customer",
+    "pk": 2,
+    "fields": {
+      "name": "Microsoft",
+      "interval": 2,
+      "timezone": "US/Central"
+    }
+  },
+  {
+    "model": "baz.customer",
+    "pk": 3,
+    "fields": {
+      "name": "Apple",
+      "interval": 3,
+      "timezone": "Mexico/General"
+    }
+  },
+  {
+    "model": "baz.customer",
+    "pk": 4,
+    "fields": {
+      "name": "Asus",
+      "interval": 4,
+      "timezone": "Europe/Zurich"
+    }
+  }
+]

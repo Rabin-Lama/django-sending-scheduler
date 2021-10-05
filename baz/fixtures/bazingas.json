@@ -1,0 +1,42 @@
+[
+  {
+    "model": "baz.baz",
+    "pk": 1,
+    "fields": {
+      "title": "title 1",
+      "content": "some demo content"
+    }
+  },
+  {
+    "model": "baz.baz",
+    "pk": 2,
+    "fields": {
+      "title": "title 2",
+      "content": "some demo content"
+    }
+  },
+  {
+    "model": "baz.baz",
+    "pk": 3,
+    "fields": {
+      "title": "title 3",
+      "content": "some demo content"
+    }
+  },
+  {
+    "model": "baz.baz",
+    "pk": 4,
+    "fields": {
+      "title": "title 4",
+      "content": "some demo content"
+    }
+  },
+  {
+    "model": "baz.baz",
+    "pk": 5,
+    "fields": {
+      "title": "title 5",
+      "content": "some demo content"
+    }
+  }
+]
